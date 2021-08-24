@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dephery
-- 👀 I’m interested in programming and testing.
-- 🌱 I’m currently learning A/B Testing.
-- 💞️ I’m looking to collaborate on PM manager ...
+- 👀 I’m interested in swimming,bicycling and testing.
+- 🌱 I’m currently learning Testing...
 - 📫 How to reach me with my mail address: jiajia201@163.com
 
 <!---
